@@ -6,6 +6,6 @@ int main()
     ios::sync_with_stdio(false);
     cin.tie(0);
     cout.tie(0);
-    cout<<"안녕하세요"<<endl;
+    printf("안녕하세요1");
     return 0;
 }
